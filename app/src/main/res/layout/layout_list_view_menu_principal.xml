@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="5dip" >
+    
+    <LinearLayout
+        android:id="@+id/thumbnail"
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content"
+        android:padding="3dip"
+        android:layout_alignParentLeft="true"
+        android:layout_marginRight="5dip"
+        android:layout_alignParentStart="true"
+        android:layout_marginEnd="5dip" >
+        
+        <ImageView
+            android:contentDescription="@string/img_imagen_lis_view_menu"
+            android:id="@+id/imagenListRowMenu"
+            android:layout_width="30dip"
+            android:layout_height="30dip"
+            android:src="@drawable/logomovil" />
+    </LinearLayout>
+        
+    <!-- Titulo de la categoria -->
+    <TextView
+        android:id="@+id/txtListRowMenu"
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content"
+        android:textColor="#040404"
+        android:typeface="sans"
+        android:textSize="18sp"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/thumbnail"
+        android:layout_toEndOf="@+id/thumbnail" />
+</RelativeLayout>

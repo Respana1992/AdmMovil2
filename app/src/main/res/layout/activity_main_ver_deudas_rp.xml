@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+	android:padding="10dp"
+	>
+
+
+	<TextView
+		android:id="@+id/lbl_tipodocfac"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="14sp"
+		android:textStyle="bold"
+		/>
+
+	<TextView
+		android:id="@+id/lblNumDoc"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="14sp"
+		android:textStyle="bold"
+		android:layout_toRightOf="@id/lblTipoDoc"
+		android:layout_toEndOf="@id/lblTipoDoc" />
+
+	<TextView
+		android:id="@+id/lblFechaVen"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="12sp"
+		android:layout_below="@id/lblSaldo" />
+
+	<TextView
+		android:id="@+id/lblSaldo"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="12sp"
+		android:layout_below="@id/lblNumDoc"
+		android:layout_toRightOf="@id/lblVPago"
+		android:layout_toEndOf="@id/lblVPago" />
+
+</LinearLayout>

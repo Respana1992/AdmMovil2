@@ -1,0 +1,309 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+	<LinearLayout
+		android:layout_width="fill_parent"
+		android:layout_height="852dp"
+		android:orientation="vertical"
+		android:paddingBottom="@dimen/activity_vertical_margin"
+		android:paddingLeft="@dimen/activity_horizontal_margin"
+		android:paddingRight="@dimen/activity_horizontal_margin"
+		android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context="com.birobidsa.admmovil.com.MainRegistraPagos">
+
+		<TextView
+			android:id="@+id/lblCliente"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:text="Cliente:"
+			android:layout_marginTop="20dp"/>
+
+		<TextView
+			android:id="@+id/txtCliente"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:hint="Seleccione un cliente"
+
+			android:cursorVisible="true"
+			android:onClick="buscaClientes"
+			android:textSize="14sp" />
+
+		<View
+			android:layout_width="fill_parent"
+			android:layout_height="1dp"
+			android:layout_marginTop="5dp"
+			android:background="#000000" />
+
+		<TextView
+			android:id="@+id/lblDocDebe"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="10dp"
+			android:textAppearance="?android:attr/textAppearanceLarge"
+			android:textSize="14sp" />
+
+		<TextView
+			android:id="@+id/lblNumFac"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_alignTop="@+id/lblTotalPedidos"
+
+			android:text="No. Documento:"
+			android:textAppearance="?android:attr/textAppearanceLarge"
+			android:textSize="15sp" />
+
+		<TextView
+			android:id="@+id/txtNumFact"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:hint="Seleccione el documento a pagar"
+			android:inputType="number"
+			android:onClick="buscarDeudas"
+			android:textSize="15sp"
+			/>
+
+		<TextView
+			android:id="@+id/lblSaldoPago"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:text="Saldo:"
+			android:textAppearance="?android:attr/textAppearanceLarge"
+			android:textSize="15sp" />
+
+		<EditText
+			android:id="@+id/txtSaldoPago"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:enabled="false"
+			android:textSize="15sp"
+			android:autofillHints="" />
+
+		<View
+			android:layout_width="fill_parent"
+			android:layout_height="1dp"
+			android:layout_marginTop="5dp"
+			android:background="#000000" />
+
+		<TextView
+			android:id="@+id/lblFormPag"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+
+
+			android:text="Forma de Pago:"
+			android:textAppearance="?android:attr/textAppearanceLarge"
+			android:textSize="15sp" />
+
+		<TextView
+			android:id="@+id/txtFormPag"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+
+			android:autofillHints=""
+			android:hint="Seleccione Medio de Pago"
+			android:onClick="buscaMedioPago"
+			android:textSize="15sp" />
+
+		<TextView
+			android:id="@+id/lblVPago"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+
+			android:text="Valor a Pagar:"
+			android:textAppearance="?android:attr/textAppearanceLarge"
+			android:textSize="14sp" />
+
+		<EditText
+			android:id="@+id/txtMonto"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:inputType="numberDecimal"
+
+			android:textSize="14sp" />
+
+		<TextView
+			android:id="@+id/lblFechaPago"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+
+			android:text="Fecha de Pago:"
+			android:textAppearance="?android:attr/textAppearanceLarge"
+			android:textSize="14sp" />
+
+		<EditText
+			android:id="@+id/txtFechaPago"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:inputType="date"
+			android:enabled="false"
+			android:textSize="14sp" />
+
+		<TextView
+			android:id="@+id/lblObservacion"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+
+			android:text="Observación:"
+			android:textAppearance="?android:attr/textAppearanceLarge"
+			android:textSize="14sp" />
+
+		<EditText
+			android:id="@+id/txtObservacion"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+
+
+			android:textSize="14sp" />
+
+
+		<View
+			android:layout_width="fill_parent"
+			android:layout_height="1dp"
+			android:layout_marginTop="5dp"
+			android:background="#000000" />
+
+		<TextView
+			android:id="@+id/lblTotalPedidos"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:textSize="16sp" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:visibility="invisible"
+            android:id="@+id/datosTipoPago"
+            >
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="5dp"
+                android:background="#000000" />
+
+            <TextView
+                android:id="@+id/lblDatosTipoPago"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:text="Detalle Bancario"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="13sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="5dp"
+                android:background="#000000" />
+
+            <TextView
+                android:id="@+id/lblBanco"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:text="Banco:"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/txtBanco"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="buscaBanco"
+                android:hint="Seleccione un Banco"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/lblNumCuenta"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:text="No. Cuenta:"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="14sp" />
+
+            <EditText
+                android:id="@+id/txtNumCuenta"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Indique Número de Cuenta"
+                android:inputType="number"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/lblNumCheque"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="invisible"
+                android:text="No. Chq/Dep/Tra:"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="14sp" />
+
+            <EditText
+                android:visibility="invisible"
+                android:id="@+id/txtNumCheque"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Indique Número"
+                android:inputType="number"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/lblFechVenChq"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="invisible"
+                android:text="Fecha Venc./Fecha Dep:"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="14sp" />
+
+            <EditText
+                android:id="@+id/txtFechVenChq"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="invisible"
+                android:textSize="14sp"
+                android:hint="Indique Fecha de Vencimiento"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Imprimir"
+                android:layout_gravity="center"
+                android:textSize="20sp"
+                android:onClick="imprimir"
+                android:enabled="false"
+                android:visibility="gone" />
+
+            <ListView
+                android:id="@+id/lvDetallesPagos"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center" />
+
+        </LinearLayout>
+
+	</LinearLayout>
+
+
+
+
+
+
+
+
+
+</ScrollView>

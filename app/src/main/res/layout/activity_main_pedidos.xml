@@ -1,0 +1,329 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+	android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+	android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+	android:paddingTop="@dimen/activity_vertical_margin"
+    android:textSize="14sp"
+    tools:context="com.birobidsa.admmovil.com.MainPedidos">
+	
+    <TextView
+        android:id="@+id/txtVendedor"
+        android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+    	android:textSize="13sp"
+    	android:textStyle="bold"/>
+    
+    <View 
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#000000"
+        android:layout_marginTop="5dp" />
+    
+    <LinearLayout
+    	android:orientation="vertical"
+        android:layout_width="fill_parent"
+	    android:layout_height="wrap_content" >
+
+        <LinearLayout
+    		android:orientation="horizontal"
+        	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:gravity="center" >
+            <!-- Subtotal -->
+	        <TextView
+    	        android:text="@string/lbl_subtotal"
+    	        android:layout_width="wrap_content"
+	    		android:layout_height="wrap_content"
+	    		android:textSize="13sp"
+    			android:textStyle="bold"/>
+        	<TextView
+            	android:id="@+id/txtSubtotal"
+	            android:layout_width="50dp"
+    	        android:layout_height="wrap_content"
+        	    android:text="@string/lbl_valorsubtotal"
+            	android:layout_marginLeft="5dp"
+	            android:layout_marginStart="5dp"
+    	        android:textSize="13sp" />
+        
+        	<!-- Descuento -->
+	        <TextView
+	            android:text="@string/lbl_descuento"
+    	        android:layout_width="wrap_content"
+	    		android:layout_height="wrap_content"
+	    		android:textSize="13sp"
+    			android:textStyle="bold"
+    			android:layout_marginLeft="30dp"
+    			android:layout_marginStart="30dp" />
+        	<TextView
+            	android:id="@+id/txtDescuento"
+	            android:layout_width="50dp"
+    	        android:layout_height="wrap_content"
+        	    android:text="@string/lbl_valordescuento"
+            	android:layout_marginLeft="5dp"
+	            android:layout_marginStart="5dp"
+    	        android:textSize="13sp" />
+	    </LinearLayout>
+	    
+        <LinearLayout
+    		android:orientation="horizontal"
+        	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:gravity="center" >
+            <!-- IVA -->
+	        <TextView
+    	        android:text="@string/lbl_iva"
+        	    android:layout_width="wrap_content"
+            	android:layout_height="wrap_content"
+	            android:textSize="13sp"
+    	        android:textStyle="bold"
+    	        android:layout_marginLeft="3dp"
+            	android:layout_marginStart="3dp" />
+	        <TextView
+    	        android:id="@+id/txtTotalIva"
+        	    android:layout_width="50dp"
+            	android:layout_height="wrap_content"
+	            android:text="@string/lbl_valoriva"
+    	        android:layout_marginLeft="3dp"
+        	    android:layout_marginStart="3dp"
+            	android:textSize="13sp" />
+        
+	        <!-- Neto -->
+    	    <TextView
+        	    android:text="@string/lbl_neto"
+            	android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+    	        android:textSize="13sp"
+        	    android:textStyle="bold"
+        	    android:layout_marginLeft="36dp"
+        	    android:layout_marginStart="36dp" />
+    	    <TextView
+        	    android:id="@+id/txtNeto"
+            	android:layout_width="50dp"
+	            android:layout_height="wrap_content"
+    	        android:text="@string/lbl_valorneto"
+        	    android:layout_marginLeft="3dp"
+            	android:layout_marginStart="3dp"
+	            android:textSize="13sp" />
+    	   	</LinearLayout>
+	</LinearLayout>
+	
+	<View 
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#000000"
+        android:layout_marginTop="5dp" />
+    
+    <!-- Cliente -->
+	<!-- 
+	<TextView
+	    android:id="@+id/lblSeleccioneCliente"
+        android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+    	android:text="@string/lbl_seleccione_cliente"
+    	android:textStyle="bold|italic"
+    	android:textSize="13sp"
+    	android:layout_marginTop="7dp" />
+	 -->
+
+	<RelativeLayout
+        android:layout_width="fill_parent"
+	    android:layout_height="match_parent" >
+	    <TextView
+	    	android:id="@+id/lblSeleccioneCliente"
+        	android:layout_width="wrap_content"
+	    	android:layout_height="wrap_content"
+    		android:text="@string/lbl_cliente"
+    		android:textStyle="bold|italic"
+    		android:textSize="13sp"
+    		android:layout_marginTop="18dp" />
+	    <!-- 
+	    <ImageButton
+	        android:id="@+id/btnBuscaCliente" 
+	        android:layout_width="wrap_content"
+		    android:layout_height="50dp"
+		    android:background="@android:color/transparent"
+		    android:src="@android:drawable/ic_menu_search"
+		    android:contentDescription="@string/btn_descripcion_buscar"
+		    android:onClick="buscaClientes" />
+		 -->
+    	<EditText
+    	    android:id="@+id/txtCliente"
+		    android:hint="@string/lbl_seleccione_cliente"
+    		android:layout_width="fill_parent"
+        	android:layout_height="50dp"
+	        android:inputType="text"
+	        android:enabled="true"
+	        android:focusable="false"
+	        android:textSize="13sp"
+	        android:onClick="buscaClientes"
+	        android:layout_toRightOf="@+id/lblSeleccioneCliente"
+	        android:layout_toEndOf="@+id/lblSeleccioneCliente" />
+    	
+    	<!-- guardo el codigo del cliente, lo tengo oculto -->
+    	<EditText
+		    android:id="@+id/txtCodigoCliente"
+    		android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+		    android:inputType="text"
+		    android:enabled="false"
+	    	android:visibility="gone" /> <!-- oculto el control -->
+	</RelativeLayout>
+
+	<!-- Item -->
+	<!-- 
+	<TextView
+	    android:id="@+id/lbl_seleccione_item"
+        android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+    	android:text="@string/lbl_seleccione_item"
+    	android:textStyle="bold|italic"
+    	android:textSize="13sp"
+    	android:layout_marginTop="7dp" />
+	 -->    	
+    
+    <LinearLayout
+        android:orientation="horizontal"
+	    android:layout_width="fill_parent"
+    	android:layout_height="wrap_content" >
+    	<TextView
+		    android:id="@+id/lbl_seleccione_item"
+    	    android:layout_width="wrap_content"
+	    	android:layout_height="wrap_content"
+	    	android:text="@string/lbl_item"
+    		android:textStyle="bold|italic"
+    		android:textSize="13sp" />
+		<!-- 
+		<ImageButton
+		    android:id="@+id/btnBuscaItem"
+	        android:layout_width="wrap_content"
+		    android:layout_height="50dp"
+		    android:background="@android:color/transparent"
+		    android:src="@android:drawable/ic_menu_search"
+		    android:contentDescription="@string/btn_descripcion_buscar"
+		    android:onClick="buscaItem" />
+		 -->
+		<EditText
+	    	android:id="@+id/txtItem"
+		    android:hint="@string/lbl_seleccione_item"
+    		android:layout_width="200dp"
+	    	android:layout_height="50dp"
+			android:inputType="text"
+		    android:enabled="true"
+		    android:focusable="false"
+		    android:textSize="13sp"
+		    android:onClick="buscaItem" />
+		<EditText
+		    android:id="@+id/txtEditaPrecio"
+		    android:hint="@string/txt_auxiliar_edita_precio"
+		    android:layout_width="100dp"
+	    	android:layout_height="50dp"
+	    	android:textSize="13sp"
+	    	android:inputType="numberDecimal" />
+		
+    </LinearLayout>
+
+    <CheckBox
+        android:id="@+id/chkEsCambio"
+        android:layout_width="114dp"
+        android:layout_height="match_parent"
+        android:text="Es Cambio"
+        android:textSize="13sp" />
+    
+    <EditText
+	    android:id="@+id/txtCodigoItem"
+   		android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+	    android:inputType="text"
+	    android:visibility="gone" /> <!-- gone oculta el control, pero no afecta en el posicionamiento del diseño a diferencia del valor invisible -->
+    
+    <!-- Cajas, Unidades y Pordes -->
+
+    <CheckBox
+        android:id="@+id/chkNotaventa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:focusable="false"
+        android:text="Es Nota de Venta"
+        android:textSize="13sp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+	    android:layout_width="fill_parent"
+    	android:layout_height="wrap_content">
+        <!-- Cajas -->
+        <TextView
+            android:text="@string/lbl_cajas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp" />
+        <EditText
+            android:id="@+id/txtCajas"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:textSize="14sp" />
+        <!-- Unidades -->
+        <TextView
+            android:text="@string/lbl_unidades"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginStart="15dp" />
+        <EditText
+            android:id="@+id/txtUnidades"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content" 
+            android:inputType="number"
+            android:textSize="14sp" />
+            
+        <!-- Pordes -->
+        <TextView
+            android:id="@+id/lblPorDes"
+            android:text="@string/lbl_pordes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginStart="15dp" />
+        <EditText
+            android:id="@+id/txtPorDes"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal"
+            android:textSize="14sp" />
+        	<!-- android:inputType="number" -->
+    </LinearLayout>
+    
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_agregar"
+        android:layout_gravity="center"
+        android:textSize="20sp"
+        android:onClick="agregar"
+        android:enabled="false"
+		android:visibility="gone" />
+    
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Imprimir"
+        android:layout_gravity="center"
+        android:textSize="20sp"
+        android:onClick="imprimir"
+        android:enabled="false"
+		android:visibility="gone" />
+    
+    <ListView
+        android:id="@+id/lvDetallesPedidos"
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:layout_gravity="center" />
+
+
+</LinearLayout>

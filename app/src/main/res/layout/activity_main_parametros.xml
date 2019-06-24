@@ -1,0 +1,127 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="com.birobidsa.admmovil.com.MainParametros" >
+
+    <!-- Para ingresar la IP Pública del web service -->
+
+    <TextView
+        android:id="@+id/twIp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ip_ws" />
+    <EditText
+        android:id="@+id/txtIPWS"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:hint="@string/txt_auxiliar_ipws"
+        android:textSize="13sp"/>
+    
+    <!-- Para ingresar el usuario de vendedor -->
+
+    <TextView
+        android:id="@+id/userVen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/user_user" />
+    <EditText
+        android:id="@+id/txtUserVen"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:hint="@string/txt_auxiliar_user_user"
+        android:textSize="13sp"/>
+    
+    <!-- Para ingresar la contraseña de vendedor -->
+    <TextView
+        android:id="@+id/claveVen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/clave_user" />
+    <EditText
+        android:id="@+id/txtClaveVen"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:hint="@string/txt_auxiliar_clave_user"
+        android:textSize="13sp"/>
+    
+    <!-- Para ingresar el nombre de la impresora bluetooth -->
+    <TextView
+        android:id="@+id/nombreImpresora"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lbl_nombre_impresora" />
+
+    <EditText
+        android:id="@+id/txtNombreImpresora"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:hint="@string/txt_nombre_impresora"
+        android:textSize="13sp"/>
+
+    <TextView
+        android:id="@+id/twIpb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_auxiliar_ipwsb" />
+
+    <EditText
+        android:id="@+id/txtIPWSB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/txt_nombre_impresora"
+        android:inputType="text"
+        android:textSize="13sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_auxiliar_api_ubicacion" />
+
+
+    <EditText
+        android:id="@+id/txtApiBirobid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/txt_nombre_impresora"
+        android:inputType="text"
+        android:textSize="13sp" />
+
+    <TextView
+        android:id="@+id/lblRuc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="R.U.C." />
+
+    <EditText
+        android:id="@+id/txtRuc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ingrese R.U.C. "
+        android:inputType="text"
+        android:textSize="13sp" />
+
+    <TextView
+        android:id="@+id/lblSucursal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sucursal" />
+
+    <EditText
+        android:id="@+id/txtSucursal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ingrese sucursal"
+        android:inputType="text"
+        android:textSize="13sp" />
+
+</LinearLayout>

@@ -1,0 +1,1750 @@
+[
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_text_cursor_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_selector_filas.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-hdpi\\selector_filas.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_pagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-hdpi\\pagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\menu_main_ver_item.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\menu\\main_ver_item.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-ldrtl-xxxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-ldrtl-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_carteraclientes.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-mdpi\\carteraclientes.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_informes_stock.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_informes_stock.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_ver_pedidos.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_ver_pedidos.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_ver_item_edicion_ped.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_ver_item_edicion_ped.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_list_view_detalles_pedidos.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\layout_list_view_detalles_pedidos.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_simple_dropdown_hint.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_action_user.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_user.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_toast.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\layout_toast.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_list_view_informes_stock.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\layout_list_view_informes_stock.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.1.0.aar\\a56b7f9c649f5dc2b446cbd48da3ad2d\\res\\drawable-xxhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_logomovil.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-mdpi\\logomovil.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_cliente.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-hdpi\\cliente.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_ver_cartera.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_ver_cartera.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\menu_main_registro_pagos.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\menu\\main_registro_pagos.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_depopagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-mdpi\\depopagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_parametros.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-ldpi\\parametros.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-ldrtl-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_ver_clientes_rp.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_ver_clientes_rp.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_material_light.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_regpagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-mdpi\\regpagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-ldrtl-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_elipagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xxhdpi\\elipagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_list_view_deuda.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\layout_list_view_deuda.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.1.0.aar\\a56b7f9c649f5dc2b446cbd48da3ad2d\\res\\drawable-xhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-ldrtl-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_sinpagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xhdpi\\sinpagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_ver_forma_pago.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_ver_forma_pago.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_carteraclientes.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xhdpi\\carteraclientes.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ratingbar_full_material.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_pago.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_pago.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_parametros.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-mdpi\\parametros.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_geolocalizacion.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_geolocalizacion.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_parametros.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xxhdpi\\parametros.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_parametros.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-hdpi\\parametros.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_carteraclientes.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xxhdpi\\carteraclientes.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_list_view_pedidos.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\layout_list_view_pedidos.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\menu_main_edicion_pedidos.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\menu\\main_edicion_pedidos.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_verpedidos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-ldpi\\verpedidos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\menu_main_pedidos.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\menu\\main_pedidos.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_elipagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xhdpi\\elipagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_list_view_ver_forma_pagos.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\layout_list_view_ver_forma_pagos.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_action_pass.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-mdpi\\ic_action_pass.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_action_user.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_user.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\menu_prueba_list_view.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\menu\\prueba_list_view.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_ver_item.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_ver_item.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxxhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\color_switch_thumb_material_light.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_fondo_seleccionado.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-hdpi\\fondo_seleccionado.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-ldrtl-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_carga_datos.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_carga_datos.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\color_switch_thumb_material_dark.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_regpagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-hdpi\\regpagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\menu_main_ver_detalles_pedidos.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\menu\\main_ver_detalles_pedidos.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_pedidos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xxhdpi\\pedidos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_depopagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-ldpi\\depopagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_list_view_detalles_pagos.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\layout_list_view_detalles_pagos.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\menu_main_ver_pedidos_enviados.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\menu\\main_ver_pedidos_enviados.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_elipagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-ldpi\\elipagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_out_top.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-ldrtl-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_menu_pago.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_menu_pago.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_verpedidos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-hdpi\\verpedidos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_ver_clientes.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_ver_clientes.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_list_view_deuda2.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\layout_list_view_deuda2.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_verpedidos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xhdpi\\verpedidos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_list_view_menu_principal.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\layout_list_view_menu_principal.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_geolocalizacion.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-ldpi\\geolocalizacion.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_list_view_carga_datos.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\layout_list_view_carga_datos.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_observacion.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\layout_observacion.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_dialog_material_background_dark.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_list_view_ver_pagos.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\layout_list_view_ver_pagos.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-ldrtl-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_pedidos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-mdpi\\pedidos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_toast_ok.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-hdpi\\toast_ok.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_tab_indicator_material.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_depopagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xxhdpi\\depopagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_action_pass.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_pass.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_sinpagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xxhdpi\\sinpagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_menu_clientes.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_menu_clientes.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_action_pass.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-hdpi\\ic_action_pass.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_depopagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-hdpi\\depopagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_textfield_search_material.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_pagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-mdpi\\pagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_login.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_login.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\menu_main_menu_pedido.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\menu\\main_menu_pedido.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_lis_view_ver_detalles_pedidos.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\layout_lis_view_ver_detalles_pedidos.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_list_view_menu_pedido.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\layout_list_view_menu_pedido.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_text_cursor_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_geolocalizacion.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-mdpi\\geolocalizacion.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ubicacion.jpg.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-mdpi\\ubicacion.jpg"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_pagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xxhdpi\\pagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_cartera.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-hdpi\\cartera.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_radio_material.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_list_view_ver_item.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\layout_list_view_ver_item.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-ldrtl-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_fondo_no_seleccionado.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-hdpi\\fondo_no_seleccionado.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\menu_main.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_fade_in.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_switch_thumb_material.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_pedidos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-hdpi\\pedidos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_pagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xhdpi\\pagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-ldrtl-xxxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_list_view_ver_clientes.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\layout_list_view_ver_clientes.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\color_common_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.1.0.aar\\a56b7f9c649f5dc2b446cbd48da3ad2d\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_check_material.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_sinpagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-hdpi\\sinpagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_action_user.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-hdpi\\ic_action_user.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_descargadatos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-hdpi\\descargadatos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_list_view_menu_clientes.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\layout_list_view_menu_clientes.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_elipagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-mdpi\\elipagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-ldrtl-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\menu_main_parametros.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\menu\\main_parametros.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_creacion_clientes.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_creacion_clientes.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-ldrtl-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_menu_pedido.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_menu_pedido.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-ldrtl-xxxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_popup_enter.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_logomovil.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-hdpi\\logomovil.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_sinpagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-ldpi\\sinpagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_parametros.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_parametros.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\menu_main_carga_datos.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\menu\\main_carga_datos.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_action_user.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-mdpi\\ic_action_user.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_ver_pedidos_enviados.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_ver_pedidos_enviados.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-ldrtl-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_cab_background_top_material.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_borderless_material.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ubicacion.jpg.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-ldpi\\ubicacion.jpg"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\menu_main_prueba_seleccion.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\menu\\main_prueba_seleccion.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_cargadatos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-hdpi\\cargadatos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_pedidos.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_pedidos.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_ver_deudas.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_ver_deudas.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\color_abc_secondary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_ver_detalles_pedidos.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_ver_detalles_pedidos.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\menu_main_ver_pedidos.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\menu\\main_ver_pedidos.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_regpagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xxhdpi\\regpagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.1.0.aar\\a56b7f9c649f5dc2b446cbd48da3ad2d\\res\\drawable-mdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_ver_bancos_rp.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_ver_bancos_rp.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_popup_exit.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\menu_main_informes_stock.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\menu\\main_informes_stock.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\menu_main_ver_datos_clientes.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\menu\\main_ver_datos_clientes.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ubicacion.jpg.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xxhdpi\\ubicacion.jpg"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\menu_main_ver_cartera.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\menu\\main_ver_cartera.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_regpagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-ldpi\\regpagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_common_ic_googleplayservices.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.1.0.aar\\a56b7f9c649f5dc2b446cbd48da3ad2d\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_logomovil.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xhdpi\\logomovil.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_gradient.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-hdpi\\gradient.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\color_common_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.1.0.aar\\a56b7f9c649f5dc2b446cbd48da3ad2d\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.1.0.aar\\a56b7f9c649f5dc2b446cbd48da3ad2d\\res\\drawable-hdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\menu_main_ver_clientes.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\menu\\main_ver_clientes.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_fade_out.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_pedidos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xhdpi\\pedidos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_depopagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xhdpi\\depopagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\color_abc_search_url_text.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_action_pass.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_pass.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-ldrtl-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ubicacion.jpg.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xhdpi\\ubicacion.jpg"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_geolocalizacion.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xhdpi\\geolocalizacion.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_sincronizacion.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_sincronizacion.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_numtransfer.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\layout_numtransfer.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_carteraclientes.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-ldpi\\carteraclientes.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_pagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-ldpi\\pagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-ldrtl-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-tvdpi_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.1.0.aar\\a56b7f9c649f5dc2b446cbd48da3ad2d\\res\\drawable-tvdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ubicacion.jpg.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-hdpi\\ubicacion.jpg"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_logomovil.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xxhdpi\\logomovil.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_ver_deudas_rp.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_ver_deudas_rp.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_ver_pagos_enviados.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_ver_pagos_enviados.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_cartera_clientes.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_cartera_clientes.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-ldrtl-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_carteraclientes.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-hdpi\\carteraclientes.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_menu_principal.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_menu_principal.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\menu_main_login.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\menu\\main_login.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-ldrtl-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\menu_main_menu_principal.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\menu\\main_menu_principal.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\menu_main_menu_clientes.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\menu\\main_menu_clientes.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_ver_bancos.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_ver_bancos.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_dialog_material_background_light.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_verpedidos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-mdpi\\verpedidos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\menu_main_cartera_clientes.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\menu\\main_cartera_clientes.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\menu_main_sincronizacion.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\menu\\main_sincronizacion.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_regpagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xhdpi\\regpagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_pedidos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-ldpi\\pedidos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_text_cursor_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_verpedidos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xxhdpi\\verpedidos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_geolocalizacion.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-hdpi\\geolocalizacion.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_text_cursor_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\menu_main_creacion_clientes.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\menu\\main_creacion_clientes.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_lines.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_ver_datos_clientes.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_ver_datos_clientes.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_list_view_ver_datos_clientes.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\layout_list_view_ver_datos_clientes.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_list_view_ver_pedidos_enviados.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\layout_list_view_ver_pedidos_enviados.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_item_background_holo_light.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_logomovil.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-ldpi\\logomovil.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_ver_clientes_geolocalizacion.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_ver_clientes_geolocalizacion.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_edicion_pedidos.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\layout\\activity_main_edicion_pedidos.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_sinpagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-mdpi\\sinpagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_geolocalizacion.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xxhdpi\\geolocalizacion.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_parametros.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-xhdpi\\parametros.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\menu_main_ver_item_edicion_ped.xml.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\menu\\main_ver_item_edicion_ped.xml"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_elipagos.png.flat",
+        "source": "D:\\AdmMovil2\\app\\src\\main\\res\\drawable-hdpi\\elipagos.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-mdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AdmMovil2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\RESPANA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\20064832e64b2db00e0a4dedf612fd62\\res\\drawable-xxhdpi\\abc_list_longpressed_holo.9.png"
+    }
+]

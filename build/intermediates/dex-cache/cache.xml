@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\usuario\StudioProjects\AdmMovil2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="28.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\usuario\StudioProjects\AdmMovil2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_43dffda43c5ddc66c230e08987339564f9a14ae7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\usuario\StudioProjects\AdmMovil2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="28.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\usuario\StudioProjects\AdmMovil2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_352689baa1aec000438a50db5a40e1e522240e4a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\usuario\StudioProjects\AdmMovil2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="28.0.0"
+        sha1="ae2d9ee64c9104fd7fc8c28fe308488030326747">
+        <dex dex="C:\Users\usuario\StudioProjects\AdmMovil2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e2b53a71490db7eaf34ec1a3bea9e7be9e247b62\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\usuario\StudioProjects\AdmMovil2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="28.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\usuario\StudioProjects\AdmMovil2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.0_a34f008a6169a35584f2ee0ca18ff4ad7af0d76f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\usuario\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.2\1f96456ca233dec780aa224bff076d8e8bca3908\gson-2.2.2.jar"
+        jumboMode="true"
+        revision="28.0.0"
+        sha1="1f96456ca233dec780aa224bff076d8e8bca3908">
+        <dex dex="C:\Users\usuario\StudioProjects\AdmMovil2\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.2_3b7379ca792ff0295ee83f44a28df1bb33b95398\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\usuario\StudioProjects\AdmMovil2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="28.0.0"
+        sha1="ec2458e421f07b2bd4631b7c396332433dc1cc6d">
+        <dex dex="C:\Users\usuario\StudioProjects\AdmMovil2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b9e2cc536a2029758d0554a6458dedc739bcb8c3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\usuario\StudioProjects\AdmMovil2\app\libs\ksoap2-2.4.jar"
+        jumboMode="true"
+        revision="28.0.0"
+        sha1="e8796346a9191a019e936210a2dc50662c57594b">
+        <dex dex="C:\Users\usuario\StudioProjects\AdmMovil2\app\build\intermediates\transforms\dex\debug\folders\1000\2\ksoap2-2.4_644251a1e2cf9bb2310fc84ceac7d4e6940d24e0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\usuario\StudioProjects\AdmMovil2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="28.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\usuario\StudioProjects\AdmMovil2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_d13f0536ce450b9309254f48393a4e929bd9963e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\usuario\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        revision="28.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\usuario\StudioProjects\AdmMovil2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_2c65a0ddaf99b4fa97180773b8c7139d9d94ea7b\classes.dex" />
+    </item>
+
+</items>

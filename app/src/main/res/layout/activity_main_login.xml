@@ -1,0 +1,96 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+	android:background="@drawable/gradient"
+    android:layout_height="match_parent">
+
+	<LinearLayout
+	    android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+	    android:orientation="vertical"
+    	android:paddingBottom="@dimen/activity_vertical_margin"
+	    android:paddingLeft="@dimen/activity_horizontal_margin"
+    	android:paddingRight="@dimen/activity_horizontal_margin"
+	    android:paddingTop="@dimen/activity_vertical_margin"
+    	tools:context="com.birobidsa.admmovil.com.MainLogin"
+		android:weightSum="1">
+
+		<!-- Pide el usuario -->
+
+		<!-- Pide la clave -->
+
+		<!-- Boton de ingreso -->
+
+		<!-- Muestra fecha de trabajo y vendedor que se encuentra configurado -->
+	    <TextView
+	        android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+        	android:textSize="13sp"
+        	android:textStyle="bold|italic"
+			android:layout_centerVertical="true"
+        	android:id="@+id/lblInformacion"
+        	android:layout_marginTop="10dp"/>
+	    
+	    <!-- Muestra fecha de trabajo y vendedor que se encuentra configurado -->
+	    <TextView
+	        android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+        	android:textSize="13sp"
+        	android:textStyle="bold|italic"
+        	android:id="@+id/lblVersion"
+        	android:layout_marginTop="10dp"/>
+
+
+		<ImageView
+			android:id="@+id/imageView"
+			android:layout_width="166dp"
+			android:layout_height="159dp"
+			android:layout_gravity="center_horizontal"
+			android:layout_marginTop="40dp"
+			android:layout_weight="0.34"
+			android:src="@drawable/logomovil" />
+
+		<TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_usuario"
+			android:textStyle="bold|italic"
+            android:layout_marginTop="20dp" />
+
+		<EditText
+		    android:id="@+id/txtUsuario"
+	    	android:inputType="textCapCharacters"
+			android:drawableLeft="@drawable/ic_action_user"
+	        android:layout_width="fill_parent"
+    	    android:layout_height="wrap_content"
+			android:textStyle="bold|italic"
+        	android:hint="@string/txt_auxiliar_usuario" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+			android:textStyle="bold|italic"
+            android:text="@string/lbl_clave" />
+
+		<EditText
+		    android:id="@+id/txtClave"
+	    	android:inputType="textPassword"
+			android:drawableLeft="@drawable/ic_action_pass"
+	        android:layout_width="fill_parent"
+    	    android:layout_height="wrap_content"
+			android:textStyle="bold|italic"
+        	android:hint="@string/txt_auxiliar_clave" />
+
+		<Button
+			android:id="@+id/btnIngreso"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="30dp"
+			android:backgroundTint="@color/accent_material_light"
+			android:drawableLeft="@drawable/abc_btn_check_to_on_mtrl_015"
+			android:onClick="ingreso"
+			android:text="@string/btn_ingreso"
+			android:textStyle="bold|italic" />
+	</LinearLayout>
+</ScrollView>

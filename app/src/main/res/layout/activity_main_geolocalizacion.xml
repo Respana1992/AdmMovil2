@@ -1,0 +1,104 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+	android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+	android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+	android:paddingTop="@dimen/activity_vertical_margin"
+    android:textSize="14sp"
+    tools:context="com.birobidsa.admmovil.com.MainGeolocalizacion">
+
+
+	<TextView
+		android:id="@+id/lblCliente"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Cliente:" />
+
+
+	<EditText
+		android:id="@+id/txtCliente"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:ems="10"
+		android:onClick="buscaClientes"
+		android:inputType="textPersonName"
+		android:textSize="13sp" />
+
+	<View
+		android:layout_width="fill_parent"
+		android:layout_height="1dp"
+		android:layout_marginTop="5dp"
+		android:background="#000000" />
+
+	<EditText
+		android:id="@+id/txtCodigoCliente"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentStart="true"
+		android:ems="10"
+		android:inputType="textPersonName"
+		android:textSize="13sp" />
+
+	<View
+		android:id="@+id/divider"
+		android:layout_width="match_parent"
+		android:layout_height="25dp"
+		android:background="?android:attr/listDivider" />
+
+	<TextView
+		android:id="@+id/lblLatitud"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Ubicación:" />
+
+	<TextView
+		android:id="@+id/txtviewlatitud"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Latitud y Longitud" />
+
+	<View
+		android:id="@+id/divider2"
+		android:layout_width="match_parent"
+		android:layout_height="25dp"
+		android:background="?android:attr/listDivider" />
+
+	<CheckBox
+		android:id="@+id/chbVisita"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Visita a Cliente"
+		android:textSize="13sp" />
+
+	<TextView
+		android:id="@+id/txtLatLon"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="20sp" />
+
+	<ToggleButton
+		android:id="@+id/toggleButton"
+		android:layout_width="174dp"
+		android:layout_height="33dp"
+		android:layout_gravity="center_horizontal"
+		android:text="ACTUALIZAR"
+		android:textOff="Iniciar Actualizaciones"
+		android:textOn="Para Actualizaciones" />
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:orientation="vertical"
+		android:paddingLeft="@dimen/activity_horizontal_margin"
+		android:paddingTop="@dimen/activity_vertical_margin"
+		android:paddingRight="@dimen/activity_horizontal_margin"
+		android:paddingBottom="@dimen/activity_vertical_margin"
+		tools:context="net.sgoliver.android.localizacion.MainActivity">
+
+
+	</LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.birobidsa.admmovil.ec.com"
+    android:installLocation="internalOnly"
+    android:versionCode="4"
+    android:versionName="4.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission." />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <supports-screens android:anyDensity="true" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logomovil"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainLogin"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainMenuPrincipal"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainCreacionClientes"
+            android:label="@string/title_activity_main_creacion_clientes" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainPedidos"
+            android:configChanges="screenSize|orientation"
+            android:label="@string/title_activity_main_pedidos" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainVerClientes"
+            android:label="@string/title_activity_main_ver_clientes" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainGeolocalizacion"
+            android:label="@string/title_activity_main_geolocalizacion" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainVerItem"
+            android:label="@string/title_activity_main_ver_item" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainSincronizacion"
+            android:label="@string/title_activity_main_sincronizacion" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainMenuClientes"
+            android:label="@string/title_activity_main_menu_clientes" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainVerPedidos"
+            android:label="@string/title_activity_main_ver_pedidos" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainMenuPedido"
+            android:label="@string/title_activity_main_menu_pedido" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainVerDetallesPedidos"
+            android:label="@string/title_activity_main_ver_detalles_pedidos" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainVerDatosClientes"
+            android:label="@string/title_activity_main_ver_datos_clientes" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainParametros"
+            android:label="@string/title_activity_main_parametros" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainCargaDatos"
+            android:label="@string/title_activity_main_carga_datos" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainVerPedidosEnviados"
+            android:label="@string/title_activity_main_ver_pedidos_enviados" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainCarteraClientes"
+            android:label="@string/title_activity_main_cartera_clientes" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainVerCartera"
+            android:label="@string/title_activity_main_ver_cartera" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainEdicionPedidos"
+            android:configChanges="screenSize|orientation"
+            android:label="@string/title_activity_main_edicion_pedidos" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainVerItemEdicionPed"
+            android:label="@string/title_activity_main_ver_item_edicion_ped" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainVerClientesRP"
+            android:label="@string/title_activity_main_ver_clientes_rp" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainInformesStock"
+            android:label="MainInformesStock" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainVerClientesGeolocalizacion"
+            android:label="@string/title_activity_main_ver_clientes_geolocalizacion" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainRegistraPagos"
+            android:label="@string/title_activity_main_registra_pagos" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainPagos"
+            android:label="@string/title_activity_main_pagos" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainVerDeudas"
+            android:label="@string/title_activity_main_ver_deudas" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainVerFormasPago"
+            android:label="@string/title_activity_main_ver_forma_pagos" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainBancos"
+            android:label="@string/title_activity_main_ver_bancos" >
+        </activity>
+        <activity
+            android:name="com.birobidsa.admmovil.com.MainVerPagos"
+            android:label="@string/title_activity_main_ver_pagos_enviados" >
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyD-YgNvhaA-qPYnwDtmP9cxB6xO59z0_yo" />
+        <!--
+ ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

@@ -1,0 +1,4 @@
+#Wed Jun 19 11:21:01 COT 2019
+base.0=D\:\\AdmMovil2\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

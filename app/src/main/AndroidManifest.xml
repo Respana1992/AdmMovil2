@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.birobidsa.admmovil.com"
+    android:versionCode="43"
+    android:versionName="2.43" android:installLocation="internalOnly">
+
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission." />
+
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"/>
+    <uses-permission android:name="android.permission.READ_LOGS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    
+    <supports-screens android:anyDensity="true" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logomovil"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainLogin"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainMenuPrincipal"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".MainCreacionClientes"
+            android:label="@string/title_activity_main_creacion_clientes" >
+        </activity>
+        <activity
+            android:name=".MainPedidos"
+            android:label="@string/title_activity_main_pedidos"
+            android:configChanges="screenSize|orientation" >
+        </activity>
+        <activity
+            android:name=".MainVerClientes"
+            android:label="@string/title_activity_main_ver_clientes" >
+        </activity>
+        <activity
+            android:name=".MainGeolocalizacion"
+            android:label="@string/title_activity_main_geolocalizacion">
+
+        </activity>
+        <activity
+            android:name=".MainVerItem"
+            android:label="@string/title_activity_main_ver_item" >
+        </activity>
+        <activity
+            android:name=".MainSincronizacion"
+            android:label="@string/title_activity_main_sincronizacion" >
+        </activity>
+        <activity
+            android:name=".MainMenuClientes"
+            android:label="@string/title_activity_main_menu_clientes" >
+        </activity>
+        <activity
+            android:name=".MainVerPedidos"
+            android:label="@string/title_activity_main_ver_pedidos" >
+        </activity>
+        <activity
+            android:name=".MainMenuPedido"
+            android:label="@string/title_activity_main_menu_pedido" >
+        </activity>
+        <activity
+            android:name=".MainVerDetallesPedidos"
+            android:label="@string/title_activity_main_ver_detalles_pedidos" >
+        </activity>
+        <activity
+            android:name=".MainVerDatosClientes"
+            android:label="@string/title_activity_main_ver_datos_clientes" >
+        </activity>
+        <activity
+            android:name=".MainParametros"
+            android:label="@string/title_activity_main_parametros" >
+        </activity>
+        <activity
+            android:name=".MainCargaDatos"
+            android:label="@string/title_activity_main_carga_datos" >
+        </activity>
+        <activity
+            android:name=".MainVerPedidosEnviados"
+            android:label="@string/title_activity_main_ver_pedidos_enviados" >
+        </activity>
+        <activity
+            android:name=".MainCarteraClientes"
+            android:label="@string/title_activity_main_cartera_clientes" >
+        </activity>
+        <activity
+            android:name=".MainVerCartera"
+            android:label="@string/title_activity_main_ver_cartera" >
+        </activity>
+        <activity
+            android:name=".MainEdicionPedidos"
+            android:label="@string/title_activity_main_edicion_pedidos"
+            android:configChanges="screenSize|orientation" >
+        </activity>
+        <activity
+            android:name=".MainVerItemEdicionPed"
+            android:label="@string/title_activity_main_ver_item_edicion_ped" >
+        </activity>
+        <activity
+            android:name=".MainVerClientesRP"
+            android:label="@string/title_activity_main_ver_clientes_rp" >
+        </activity>
+        <activity
+            android:name=".MainInformesStock"
+            android:label="MainInformesStock" >
+        </activity>
+        <activity
+            android:name=".MainVerClientesGeolocalizacion"
+            android:label="@string/title_activity_main_ver_clientes_geolocalizacion" >
+        </activity>
+        <activity
+            android:name=".MainRegistraPagos"
+            android:label="@string/title_activity_main_registra_pagos">
+        </activity>
+        <activity
+            android:name=".MainPagos"
+            android:label="@string/title_activity_main_pagos">
+        </activity>
+        <activity
+            android:name=".MainVerDeudas"
+            android:label="@string/title_activity_main_ver_deudas">
+        </activity>
+        <activity
+            android:name=".MainVerFormasPago"
+            android:label="@string/title_activity_main_ver_forma_pagos">
+        </activity>
+        <activity
+            android:name=".MainBancos"
+            android:label="@string/title_activity_main_ver_bancos">
+        </activity>
+        <activity
+            android:name=".MainVerPagos"
+            android:label="@string/title_activity_main_ver_pagos_enviados">
+        </activity>
+
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyD-YgNvhaA-qPYnwDtmP9cxB6xO59z0_yo"/><!-- ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information. -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+    </application>
+
+</manifest>

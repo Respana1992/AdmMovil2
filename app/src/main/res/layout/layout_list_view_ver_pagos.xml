@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clasesAdapter.CheckedLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/selector_filas" >
+
+    <!--  
+    <TextView
+              android:id="@+id/titulo"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:textAppearance="@android:style/TextAppearance.Large"
+              android:textColor="#FFDEDEDE"/>
+    <TextView
+            android:id="@+id/descripcion"
+            android:text="descripciones y tal..."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="@android:style/TextAppearance.Small"
+            android:textColor="#FFC3C3C3"/>
+    
+    -->
+    
+    
+    <TextView
+        android:id="@+id/lblNombreCliente"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="17sp"
+        android:textStyle="italic|bold"/>
+	
+	<TextView
+	        android:id="@+id/lblSubtitulo1"
+    	    android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:textSize="13sp"/>
+	
+	<TextView
+    	    android:id="@+id/lblSubtitulo2"
+        	android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+    	    android:textSize="13sp"/>
+    
+    <View 
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#000000"
+        android:layout_marginTop="5dp" />
+    
+
+</clasesAdapter.CheckedLinearLayout>

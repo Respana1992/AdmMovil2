@@ -1,0 +1,315 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:2:1-169:12
+INJECTED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:2:1-169:12
+INJECTED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:2:1-169:12
+INJECTED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:2:1-169:12
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\RESPANA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.0.aar\20064832e64b2db00e0a4dedf612fd62\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\RESPANA\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\fb70743c2feb76935d3581dcd4307393\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\RESPANA\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\a56b7f9c649f5dc2b446cbd48da3ad2d\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\RESPANA\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\ed9e0f33c590ef75ca71d1023eeb295e\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:2:1-169:12
+INJECTED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:2:1-169:12
+INJECTED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:2:1-169:12
+	package
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\AdmMovil2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AdmMovil2\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:5:5-31
+		INJECTED from D:\AdmMovil2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AdmMovil2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from D:\AdmMovil2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AdmMovil2\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:5:32-70
+uses-permission#android.permission.INTERNET
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:12:5-59
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:12:22-56
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:16:5-88
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:16:22-86
+uses-permission#android.permission.READ_LOGS
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:17:22-65
+supports-screens
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:20:5-51
+	android:anyDensity
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:20:23-48
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:25:22-77
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:26:5-68
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:26:22-65
+application
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:28:5-167:19
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\RESPANA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.0.aar\20064832e64b2db00e0a4dedf612fd62\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\RESPANA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.0.aar\20064832e64b2db00e0a4dedf612fd62\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\RESPANA\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\fb70743c2feb76935d3581dcd4307393\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\RESPANA\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\fb70743c2feb76935d3581dcd4307393\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\RESPANA\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\a56b7f9c649f5dc2b446cbd48da3ad2d\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\RESPANA\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\a56b7f9c649f5dc2b446cbd48da3ad2d\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\RESPANA\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\ed9e0f33c590ef75ca71d1023eeb295e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\RESPANA\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\ed9e0f33c590ef75ca71d1023eeb295e\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:31:9-41
+	android:icon
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:30:9-43
+	android:allowBackup
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:29:9-35
+	android:theme
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:32:9-40
+activity#com.birobidsa.admmovil.com.MainLogin
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:33:9-41:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:34:13-38
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:39:27-74
+activity#com.birobidsa.admmovil.com.MainMenuPrincipal
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:42:9-45:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:44:13-45
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:43:13-46
+activity#com.birobidsa.admmovil.com.MainCreacionClientes
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:46:9-49:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:48:13-74
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:47:13-49
+activity#com.birobidsa.admmovil.com.MainPedidos
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:50:9-54:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:52:13-64
+	android:configChanges
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:53:13-59
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:51:13-40
+activity#com.birobidsa.admmovil.com.MainVerClientes
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:55:9-58:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:57:13-69
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:56:13-44
+activity#com.birobidsa.admmovil.com.MainGeolocalizacion
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:59:9-63:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:61:13-72
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:60:13-48
+activity#com.birobidsa.admmovil.com.MainVerItem
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:64:9-67:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:66:13-65
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:65:13-40
+activity#com.birobidsa.admmovil.com.MainSincronizacion
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:68:9-71:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:70:13-71
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:69:13-47
+activity#com.birobidsa.admmovil.com.MainMenuClientes
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:72:9-75:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:74:13-70
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:73:13-45
+activity#com.birobidsa.admmovil.com.MainVerPedidos
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:76:9-79:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:78:13-68
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:77:13-43
+activity#com.birobidsa.admmovil.com.MainMenuPedido
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:80:9-83:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:82:13-68
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:81:13-43
+activity#com.birobidsa.admmovil.com.MainVerDetallesPedidos
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:84:9-87:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:86:13-77
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:85:13-51
+activity#com.birobidsa.admmovil.com.MainVerDatosClientes
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:88:9-91:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:90:13-75
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:89:13-49
+activity#com.birobidsa.admmovil.com.MainParametros
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:92:9-95:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:94:13-67
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:93:13-43
+activity#com.birobidsa.admmovil.com.MainCargaDatos
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:96:9-99:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:98:13-68
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:97:13-43
+activity#com.birobidsa.admmovil.com.MainVerPedidosEnviados
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:100:9-103:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:102:13-77
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:101:13-51
+activity#com.birobidsa.admmovil.com.MainCarteraClientes
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:104:9-107:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:106:13-73
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:105:13-48
+activity#com.birobidsa.admmovil.com.MainVerCartera
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:108:9-111:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:110:13-68
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:109:13-43
+activity#com.birobidsa.admmovil.com.MainEdicionPedidos
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:112:9-116:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:114:13-72
+	android:configChanges
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:115:13-59
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:113:13-47
+activity#com.birobidsa.admmovil.com.MainVerItemEdicionPed
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:117:9-120:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:119:13-77
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:118:13-50
+activity#com.birobidsa.admmovil.com.MainVerClientesRP
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:121:9-124:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:123:13-72
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:122:13-46
+activity#com.birobidsa.admmovil.com.MainInformesStock
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:125:9-128:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:127:13-46
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:126:13-46
+activity#com.birobidsa.admmovil.com.MainVerClientesGeolocalizacion
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:129:9-132:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:131:13-85
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:130:13-59
+activity#com.birobidsa.admmovil.com.MainRegistraPagos
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:133:9-136:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:135:13-71
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:134:13-46
+activity#com.birobidsa.admmovil.com.MainPagos
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:137:9-140:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:139:13-62
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:138:13-38
+activity#com.birobidsa.admmovil.com.MainVerDeudas
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:141:9-144:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:143:13-67
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:142:13-42
+activity#com.birobidsa.admmovil.com.MainVerFormasPago
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:145:9-148:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:147:13-72
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:146:13-46
+activity#com.birobidsa.admmovil.com.MainBancos
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:149:9-152:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:151:13-67
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:150:13-39
+activity#com.birobidsa.admmovil.com.MainVerPagos
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:153:9-156:20
+	android:label
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:155:13-75
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:154:13-41
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:159:9-161:70
+	android:value
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:161:13-68
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:160:13-58
+meta-data#com.google.android.gms.version
+ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:163:9-165:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\RESPANA\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\a56b7f9c649f5dc2b446cbd48da3ad2d\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\RESPANA\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\a56b7f9c649f5dc2b446cbd48da3ad2d\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:165:13-66
+	android:name
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml:164:13-58
+uses-sdk
+INJECTED from D:\AdmMovil2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AdmMovil2\app\src\main\AndroidManifest.xml
+INJECTED from D:\AdmMovil2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\RESPANA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.0.aar\20064832e64b2db00e0a4dedf612fd62\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\RESPANA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.0.aar\20064832e64b2db00e0a4dedf612fd62\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\RESPANA\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\fb70743c2feb76935d3581dcd4307393\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\RESPANA\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\fb70743c2feb76935d3581dcd4307393\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\RESPANA\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\a56b7f9c649f5dc2b446cbd48da3ad2d\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\RESPANA\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\a56b7f9c649f5dc2b446cbd48da3ad2d\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\RESPANA\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\ed9e0f33c590ef75ca71d1023eeb295e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\RESPANA\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\ed9e0f33c590ef75ca71d1023eeb295e\AndroidManifest.xml:20:5-43
+INJECTED from D:\AdmMovil2\app\src\main\AndroidManifest.xml
+INJECTED from D:\AdmMovil2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AdmMovil2\app\src\main\AndroidManifest.xml
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AdmMovil2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AdmMovil2\app\src\main\AndroidManifest.xml
+		ADDED from D:\AdmMovil2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AdmMovil2\app\src\main\AndroidManifest.xml

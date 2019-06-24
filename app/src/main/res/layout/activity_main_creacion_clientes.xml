@@ -1,0 +1,266 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="852dp"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context="com.birobidsa.admmovil.com.MainCreacionClientes" >
+
+        <!-- Nombre -->
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_nombre_cliente"
+            android:layout_marginTop="20dp" />
+        <EditText
+            android:id="@+id/txtNombre"
+            android:inputType="text"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/txt_auxiliar_nombre"
+            android:textSize="14sp" />
+
+        <!-- Nombre de negocio -->
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_negocio_cliente"
+            android:layout_marginTop="20dp" />
+        <EditText
+            android:id="@+id/txtNegocio"
+            android:inputType="text"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/txt_auxiliar_negocio"
+            android:textSize="14sp" />
+
+        <!-- Dirección -->
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_direccion_cliente"
+            android:layout_marginTop="20dp" />
+        <EditText
+            android:id="@+id/txtDireccion"
+            android:inputType="text"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/txt_auxiliar_direccion"
+            android:textSize="14sp" />
+
+        <!-- Teléfono -->
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_telefono_cliente"
+            android:layout_marginTop="20dp" />
+        <EditText
+            android:id="@+id/txtTelefono"
+            android:inputType="number"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/txt_auxiliar_cliente"
+            android:textSize="14sp" />
+
+        <!-- Tipo de Identificación del cliente -->
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_tipo_identificacion_cliente"
+            android:layout_marginTop="20dp" />
+        <RadioGroup
+            android:id="@+id/rgrNumeroIdentificacion"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <RadioButton
+                android:id="@+id/rbtCedula"
+                android:text="@string/rbt_cedula"
+                android:textSize="13sp"
+                android:checked="true" />
+            <RadioButton
+                android:id="@+id/rbtRuc"
+                android:text="@string/rbt_ruc"
+                android:textSize="13sp" />
+            <RadioButton
+                android:id="@+id/rbtConsumidorFinal"
+                android:text="@string/rbt_consumidor_final"
+                android:textSize="13sp" />
+        </RadioGroup>
+
+        <!-- Número de identificación -->
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_numero_identificacion_cliente"
+            android:layout_marginTop="20dp" />
+        <EditText
+            android:id="@+id/txtNumeroIdentificacion"
+            android:inputType="number"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/txt_auxiliar_numero_identificacion"
+            android:textSize="14sp"
+            android:maxLength="10" />
+
+        <!-- Dirección email -->
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_email"
+            android:layout_marginTop="20dp" />
+        <EditText
+            android:id="@+id/txtEmail"
+            android:inputType="textEmailAddress"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/txt_auxiliar_email"
+            android:textSize="14sp" />
+
+        <!-- Referencia -->
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_referencia"
+            android:layout_marginTop="20dp" />
+        <EditText
+            android:id="@+id/txtReferencia"
+            android:inputType="text"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/txt_auxiliar_referencia"
+            android:textSize="14sp" />
+        <!-- Observacion -->
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/lbl_observa"/>
+        <EditText
+            android:id="@+id/txtObserva"
+            android:inputType="text"
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:hint="@string/lbl_observa_txt"
+            android:textSize="14sp"/>
+
+
+        <!-- Tipo de negocio -->
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_tipo_negocio_cliente"
+            android:layout_marginTop="20dp" />
+        <TextView
+            android:id="@+id/txtTipoNegocio"
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:hint="@string/txt_auxiliar_tipo_negocio"
+            android:textSize="14sp" />
+
+        <!-- Tipo de cliente -->
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_tipo_cliente"
+            android:layout_marginTop="20dp" />
+        <TextView
+            android:id="@+id/txtTipoCliente"
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:hint="@string/txt_auxiliar_tipo_cliente"
+            android:textSize="14sp" />
+
+        <!-- Grupo de descuento -->
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_grupo_descuento"
+            android:layout_marginTop="20dp" />
+        <TextView
+            android:id="@+id/txtGrupoDescuento"
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:hint="@string/txt_auxiliar_tipo_cliente"
+            android:textSize="14sp" />
+
+        <!-- Frecuencia de visita -->
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_frecuencia_visita"
+            android:layout_marginTop="20dp" />
+        <TextView
+            android:id="@+id/txtFrecuenciaVisita"
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:hint="@string/txt_auxiliar_frecuencia_visita"
+            android:textSize="14sp" />
+
+        <!-- Zona -->
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_zona"
+            android:layout_marginTop="20dp" />
+        <TextView
+            android:id="@+id/txtZona"
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:hint="@string/txt_auxiliar_zona"
+            android:textSize="14sp" />
+
+        <!-- Ruta -->
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_ruta"
+            android:layout_marginTop="20dp" />
+        <TextView
+            android:id="@+id/txtRuta"
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:hint="@string/txt_auxiliar_ruta"
+            android:textSize="14sp" />
+
+        <!-- Dias de Credito -->
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/lbl_credito" />
+
+        <TextView
+            android:id="@+id/txtCredito"
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:hint="@string/txt_auxiliar_credito"
+            android:textSize="14sp" />
+
+        <!-- Parroquias -->
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/lbl_parroquia"/>
+
+        <TextView
+            android:id="@+id/txtParroquia"
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:hint="@string/lbl_txt_parroquia"
+            android:textSize="14sp"/>
+
+
+    </LinearLayout>
+</ScrollView>
